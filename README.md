@@ -5,7 +5,7 @@
 - 👯 I am always happy to collaborate on all things software, physics, and machine learning.
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
-- 📫 How to reach me: [omarjamil](https://omarjamil.com)
+- 📫 How to reach me: [omarjamil](https://omarjamil.net)
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
 
