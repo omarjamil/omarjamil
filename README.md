@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I am a Technical Capabilities Lead at Aleph Insights. I am working predominantly in data engineeering and machine learning applications. Previously, I served as the technical lead and a manager in the  [UniExeterRSE](https://github.com/UniExeterRSE) group, where some of my projects included Parallel-in-Time algorithms([APinTA](https://github.com/UniExeterRSE/APinTA)), [RSE training programme](https://excalibur.ac.uk/projects/rse-training-algorithms/) for Exascale computing (PI on one of the grants), and machine learning applications for physics emulation.
+- 🔭 I am the Engineering Lead at the Institute of Computing for Climate Science at University of Cambridge. My main interests are in machine learning applications in physical modelling and simulation. Previously, I haved served as a technical lead and a manager in both industry and academia where some of my projects included Parallel-in-Time algorithms([APinTA](https://github.com/UniExeterRSE/APinTA)), [RSE training programme](https://excalibur.ac.uk/projects/rse-training-algorithms/) for Exascale computing (PI on one of the grants), AI agents in defence applications, and machine learning applications for physics emulation.
 <!-- 🌱 I am currently trying to learn... -->
 - 👯 I am always happy to collaborate on all things software, physics, and machine learning.
 <!-- 🤔 I’m looking for help with ... -->
